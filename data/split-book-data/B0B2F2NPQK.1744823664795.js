@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Mathematical genius and esteemed professor James Moriarty’s world shatters when his fiancée, Rose Winslow, is mysteriously murdered. Unjustly accused of the crime, Moriarty pins his hopes on the one man who can help him solve the case: the great Sherlock Holmes.</p> <p>Available in Dolby Atmos on Audible.</p>"; 

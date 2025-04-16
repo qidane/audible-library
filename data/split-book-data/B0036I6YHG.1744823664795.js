@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Recorded at the modestly sized West Beth Centre in New York City, this album is Eddie's first recorded outside the UK. It is a brilliant tour de force on empire, religion, and the relationship between Europe and America."; 

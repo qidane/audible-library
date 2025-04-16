@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Ian Bridges works as a hitman and is on permanent stand-by for West End gangster John Broad. He does maybe three or four jobs a year and spends the rest of his lite desperately trying to find Mrs Right so he can settle down, but can't and it feels like the world is conspiring against him. He's about to find out he's right. But he can't."; 
